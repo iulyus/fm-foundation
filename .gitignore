@@ -3,6 +3,6 @@ sites/*/settings*.php
 
 # Ignore paths 
 sites/*/private
-sites/*/xmlsitemap
+sites/default/files/xmlsitemap
 
 *.esproj
