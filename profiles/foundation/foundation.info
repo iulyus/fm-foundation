@@ -1,4 +1,0 @@
-name = Foundation
-description = Foundation, a responsive theme from Friendly Machine.
-core = 7.x
-files[] = foundation.profile
