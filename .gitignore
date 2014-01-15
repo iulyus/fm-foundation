@@ -5,4 +5,4 @@ sites/*/settings*.php
 sites/*/private
 sites/default/files/xmlsitemap
 
-*.DS_Store
+.DS_Store

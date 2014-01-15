@@ -1,0 +1,4 @@
+name = FM Foundation
+description = Foundation, a responsive theme from Friendly Machine.
+core = 7.x
+files[] = fm_foundation.profile
