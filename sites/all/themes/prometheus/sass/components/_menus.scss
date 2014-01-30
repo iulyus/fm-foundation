@@ -1,0 +1,10 @@
+.block-superfish {
+	float: right;
+}
+
+.block-superfish ul li a,
+.block-superfish ul li a.active,
+.block-superfish ul li a:hover {
+	color: $light-blue;
+	font-family: $header-font-family;
+}
